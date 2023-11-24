@@ -1,2 +1,2 @@
-# ctOS-sddm-theme
-sddm theme for ctOS
+# ctOS Default SDDM Theme
+Based on [Sugar Candy](https://github.com/Kangie/sddm-sugar-candy).
